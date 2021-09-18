@@ -2,3 +2,4 @@
 srecode-map.el
 recentf
 !.gitignore
+auto-save-list/
