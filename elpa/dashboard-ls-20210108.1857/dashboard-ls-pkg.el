@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "dashboard-ls" "20210108.1857" "Display files/directories in current directory on Dashboard" '((emacs "24.3") (dashboard "1.2.5") (f "0.20.0") (s "1.12.0")) :commit "947c8c99e9abb38852d895f8792258783e3c4e1d" :authors '(("Shen, Jen-Chieh" . "jcs090218@gmail.com")) :maintainer '("Shen, Jen-Chieh" . "jcs090218@gmail.com") :url "https://github.com/emacs-dashboard/dashboard-ls")
